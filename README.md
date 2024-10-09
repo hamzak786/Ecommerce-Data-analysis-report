@@ -80,6 +80,7 @@ The Power BI report includes the following features:
 ## Screenshots
       
 Screenshots of the Power BI dashboards here for visual reference.
+![Ecommerce Data analysis report](images/dashboard-report.png)
 
 ## Conclusion
 

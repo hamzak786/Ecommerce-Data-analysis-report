@@ -1,7 +1,3 @@
-﻿# Ecommerce-Data-analysis-report
-Here's a sample project description for your Power BI report on the "Order and Details Data" for your GitHub repository:
-
----
 
 # Ecommerce Data Analysis Report using Power BI
 
